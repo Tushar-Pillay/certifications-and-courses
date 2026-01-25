@@ -19,9 +19,10 @@ Each section contains individual folders for every certificate.
 - 📈 **Statistics**
 - 🤖 **Artificial Intelligence**
 - 📊 **Tableau**
+- 🧠Business Strategy & Consulting
 - 🧮 **SQL**
 - 🐍 **Python**
-- 📊 **Business & Operations Analytics**
+
 
 *(Sections can be expanded or modified as new certifications are added.)*
 
@@ -36,6 +37,7 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [Excel / Business-Analytics-with-Excel-JHU](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Excel/Business-Analytics-with-Excel-JHU)
 
+---
 ---
 
 ## 📊 Power BI Certifications
@@ -84,6 +86,7 @@ Each section contains individual folders for every certificate.
 📁 **Folder:**  [Statistics](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Statistics)
 
 ---
+---
 
 ## 🤖 Artificial Intelligence 
 
@@ -93,6 +96,7 @@ Each section contains individual folders for every certificate.
 
 📁 **Folder:**  [ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ChatGPT-for-Beginners)
 
+---
 ---
 
 ## 📊 Tableau Certifications
@@ -111,17 +115,14 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [Create Digital Marketing Campaign Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau/Projects)
 
-## 🐍 Python Certifications
-*(Certificates will be added here)*
-
-📁 Folder: `Python/`
-
 ---
+---
+## 🧠Business Strategy & Consulting
+### Creative Problem Solving
+**University of Minnesota – Certificate**
+![Creative Problem Solving](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Creative-Problem-Solving/Creative%20Problem%20Solving.png)
 
-## 📊 Business & Operations Analytics Certifications
-*(Certificates will be added here)*
-
-📁 Folder: `Business-Analytics/`
+📁 Folder:  [Creative Problem Solving](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Creative-Problem-Solving)
 
 ---
 
