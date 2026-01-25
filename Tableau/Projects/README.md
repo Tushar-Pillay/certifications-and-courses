@@ -1,5 +1,4 @@
 ---
-
 ## Create Social Media Dashboards in Tableau  
 **Tableau Guided Project Certificate**
 
