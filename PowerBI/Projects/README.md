@@ -67,7 +67,7 @@ must be shaped, validated, and integrated before reporting and analysis.
 **Coursera | Guided Project**
 
 ## 📜 Certificate
-[![Power BI DAX Project Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Using%20DAX%20throughout%20PowerBI%20to%20create%20robust%20data%20scenarios.png)
+![Power BI DAX Project Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Using%20DAX%20throughout%20PowerBI%20to%20create%20robust%20data%20scenarios.png)
 
 🔗 **Coursera Project Link:**  
 This link redirects to the official Coursera project page for verification and detailed course information.  
