@@ -53,6 +53,13 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [Using DAX throughout Power BI to Create Robust Data Scenarios](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
 
+### Financial Reporting with Power BI: Basic Financial Analysis
+**Coursera | Guided Project**
+
+![Financial Reporting with Power BI: Basic Financial Analysis](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Financial%20Reporting%20with%20Power%20BI%20Basic%20Financial%20Analysis.png)
+
+📁 Folder:  [Financial Reporting with Power BI: Basic Financial Analysis](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
+
 ---
 ## 📊 Statistics Certifications
 
