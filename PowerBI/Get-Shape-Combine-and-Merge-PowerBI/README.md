@@ -2,10 +2,10 @@
 **Coursera | Guided Project**
 
 ## 📜 Certificate
-![Power BI Certificate](PowerBI_Get_Shape_Combine_Merge_Certificate.png)
+![Power BI Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Get-Shape-Combine-and-Merge-PowerBI/Get-Shape-Combine-and-Merge-PowerBI.png)
 
 🔗 **See full certificate details & verification:**  
-[View Certificate on Coursera](https://coursera.org)
+[https://coursera.org/share/fc04701ba87dc034699d51bb4ff97c12)
 
 ---
 
