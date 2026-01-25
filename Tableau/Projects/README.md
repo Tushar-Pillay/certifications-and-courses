@@ -51,5 +51,10 @@ visuals that help stakeholders quickly understand trends and key metrics.
 - Social Media Campaign Analysis  
 - Business Strategy  
 - Digital Marketing  
-- Data Analysis Software  
+- Data Analysis Software
+
+---
+
+> Additional Tableau guided project certificates will be added to this section as more projects are completed.
+
 
