@@ -14,10 +14,10 @@ easy-to-navigate format.
 The certificates in this repository are organized into the following sections.
 Each section contains individual folders for every certificate.
 
+- 📗 **Excel**
 - 📊 **Data Analytics**
 - 📈 **Product Analytics**
 - 🧮 **SQL**
-- 📗 **Excel**
 - 🐍 **Python**
 - 📊 **Business & Operations Analytics**
 
@@ -31,9 +31,6 @@ Each section contains individual folders for every certificate.
 **Johns Hopkins University | Coursera**
 
 ![Business Analytics with Excel Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Excel/Business-Analytics-with-Excel-JHU/Business%20Analytics%20with%20excel.jpg)
-
-🔗 **See full certificate details & verification:**  
-[View Certificate on Coursera](https://coursera.org/share/2f5a9f00bd08b91d53685b1790a30ebb)
 
 📁 Folder:  [Excel / Business-Analytics-with-Excel-JHU](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Excel/Business-Analytics-with-Excel-JHU)
 
