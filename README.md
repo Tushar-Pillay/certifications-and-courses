@@ -33,6 +33,7 @@ Each section contains individual folders for every certificate.
 ![Business Analytics with Excel Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Excel/Business-Analytics-with-Excel-JHU/Business%20Analytics%20with%20excel.jpg)
 
 📁 Folder:  [Excel / Business-Analytics-with-Excel-JHU](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Excel/Business-Analytics-with-Excel-JHU)
+
 ---
 
 ## 📊 Power BI Certifications
@@ -50,6 +51,7 @@ Each section contains individual folders for every certificate.
 ![Using DAX throughout Power BI to Create Robust Data Scenarios](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Using%20DAX%20throughout%20PowerBI%20to%20create%20robust%20data%20scenarios.png)
 
 📁 Folder:  [Using DAX throughout Power BI to Create Robust Data Scenarios](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
+
 ---
 
 ## 📈 Product Analytics Certifications
