@@ -12,7 +12,7 @@ hypothesis testing, forming a strong base for advanced analytics and MBA-level s
 **IIM Ahmedabad (IIMA) | Coursera**
 
 ## 📜 Certificate
-[![Pre-MBA Statistics Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Statistics/Pre-MBA%20Statistics.png)
+![Pre-MBA Statistics Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Statistics/Pre-MBA%20Statistics.png)
 
 🔗 **Coursera Course Link (Verification & Details):**  
 [Pre-MBA Statistics – IIM Ahmedabad](https://coursera.org/share/b3b0f12cdc59361fc50ef1551229560b)
