@@ -61,5 +61,56 @@ must be shaped, validated, and integrated before reporting and analysis.
 - Business Analytics  
 
 ---
+---
+
+## Using DAX throughout Power BI to Create Robust Data Scenarios  
+**Coursera | Guided Project**
+
+## 📜 Certificate
+[![Power BI DAX Project Certificate](Using-DAX-throughout-PowerBI.png)](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Using%20DAX%20throughout%20PowerBI%20to%20create%20robust%20data%20scenarios.png)
+
+🔗 **Coursera Project Link:**  
+This link redirects to the official Coursera project page for verification and detailed course information.  
+[Using DAX throughout Power BI to Create Robust Data Scenarios](https://coursera.org/share/7541f5fe04e65dbb7c71bf9bf8ee52cf)
+
+---
+
+## 📘 Project Description
+This guided project focuses on applying **Data Analysis Expressions (DAX)** in Power BI to build
+robust analytical scenarios. The project emphasizes creating calculated columns, measures,
+and tables to support advanced data analysis and dynamic reporting.
+
+It demonstrates how DAX enhances analytical depth by enabling time-based calculations,
+aggregations, and performance metrics within Power BI dashboards.
+
+---
+
+## 🧾 Completion Details
+- **Learner:** Tushar Pillay  
+- **Completion Date:** February 7, 2024  
+- **Duration:** ~2 hours  
+- **Grade Achieved:** 85.47%  
+- **Verification Status:** Coursera-verified account  
+
+---
+
+## 🧠 What This Project Covers
+- Creating calculated columns, measures, and tables using DAX  
+- Applying DAX expressions for business logic  
+- Displaying DAX measures using appropriate visuals  
+- Implementing time-based and analytical calculations  
+- Supporting robust data-driven scenarios in Power BI  
+
+---
+
+## 🛠 Skills Gained
+- Power BI  
+- Data Analysis  
+- Data Visualization  
+- Data Literacy  
+- Data Analysis Expressions (DAX)  
+- Software Visualization  
+- Time Series Analysis & Forecasting  
+
 
 > More Power BI guided projects will be added to this section as they are completed.
