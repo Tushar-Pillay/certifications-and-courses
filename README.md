@@ -17,6 +17,7 @@ Each section contains individual folders for every certificate.
 - 📗 **Excel**
 - 📊 **Power BI**
 - 📈 **Statistics**
+- 🤖 **Artificial Intelligence** 
 - 🧮 **SQL**
 - 🐍 **Python**
 - 📊 **Business & Operations Analytics**
@@ -59,15 +60,17 @@ Each section contains individual folders for every certificate.
 **IIM Ahmedabad (IIMA) | Coursera**
 ![Pre-MBA Statistics](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Statistics/Pre-MBA%20Statistics.png)
 
-📁 **Statistics Folder:**  
-[Statistics](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Statistics)
+📁 **Folder:**  [Statistics](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Statistics)
 
 ---
 
-## 🧮 SQL Certifications
-*(Certificates will be added here)*
+## 🤖 Artificial Intelligence 
 
-📁 Folder: `SQL/`
+### ChatGPT for Beginners  
+**Coursera**
+![ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/ChatGPT-for-Beginners/ChatGPT%20for%20Beginners.png)
+
+📁 **Folder:**  [ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ChatGPT-for-Beginners)
 
 ---
 
