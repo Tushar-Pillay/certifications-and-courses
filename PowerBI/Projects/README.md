@@ -224,5 +224,63 @@ data-driven workforce planning.
 - Interactive Reporting  
 
 ---
+---
+## Use Power BI for Financial Data Analysis  
+**Power BI Guided Project Certificate**
+
+## 📜 Certificate
+![Use Power BI for Financial Data Analysis Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/HR%20Analytics-%20Build%20an%20HR%20dashboard%20using%20Power%20BI.png)
+
+🔗 **Certificate Reference Link:**  
+[Use Power BI for Financial Data Analysis](https://coursera.org/share/bdab07d37b30d7d90c69f2647d5cb833)
+
+---
+
+### 📘 Project Description
+This guided project focuses on applying **Power BI for financial data analysis**
+and reporting. It demonstrates how financial datasets can be imported, cleaned,
+modeled, and visualized to generate meaningful insights for business and
+financial decision-making.
+
+The project emphasizes transforming raw financial data into **dynamic,
+interactive dashboards** that support reporting, analysis, and communication
+of financial performance.
+
+---
+
+### 🧾 Completion Details
+- **Learner:** Tushar Pillay  
+- **Completion Date:** January 31, 2024  
+- **Duration:** ~1 hour  
+- **Grade Achieved:** 100%  
+- **Certificate Status:** Verified completion  
+
+---
+
+### 🧠 What This Project Covers
+- Importing financial data into Power BI  
+- Cleaning and transforming data using Power Query  
+- Establishing relationships between datasets  
+- Using reference tables for structured analysis  
+- Creating interactive financial dashboards  
+- Applying dynamic features for reporting  
+- Publishing and sharing Power BI reports  
+
+---
+
+### 🛠 Skills Gained
+- Power BI  
+- Financial Data Analysis  
+- Financial Reporting  
+- Business Reporting  
+- Data Visualization  
+- Data Presentation  
+- Data Manipulation  
+- Data Cleansing  
+- Data Import / Export  
+- Data Transformation  
+- Data Analysis Expressions (DAX)
+  
+---
   
 > More Power BI guided projects will be added to this section as they are completed.
