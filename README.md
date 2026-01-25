@@ -15,7 +15,7 @@ The certificates in this repository are organized into the following sections.
 Each section contains individual folders for every certificate.
 
 - 📗 **Excel**
-- 📊 **Data Analytics**
+- 📊 **Power BI**
 - 📈 **Product Analytics**
 - 🧮 **SQL**
 - 🐍 **Python**
@@ -37,11 +37,15 @@ Each section contains individual folders for every certificate.
 
 ---
 
-## 📊 Data Analytics Certifications
-*(Certificates will be added here)*
+## 📊 Power BI Certifications
 
-📁 Folder: `Data-Analytics/`
+### Get, Shape, Combine and Merge the Datasets using Power BI  
+**Coursera | Guided Project**
 
+![Get, Shape, Combine and Merge the Datasets using Power BI](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Get-Shape-Combine-and-Merge-PowerBI/Get-Shape-Combine-and-Merge-PowerBI.png)
+
+📁 **Certificate Folder:**  
+[PowerBI / Get-Shape-Combine-and-Merge-PowerBI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Get-Shape-Combine-and-Merge-PowerBI)
 ---
 
 ## 📈 Product Analytics Certifications
