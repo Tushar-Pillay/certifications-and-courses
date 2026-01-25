@@ -16,7 +16,7 @@ Each section contains individual folders for every certificate.
 
 - 📗 **Excel**
 - 📊 **Power BI**
-- 📈 **Statistics Certifications**
+- 📈 **Statistics**
 - 🧮 **SQL**
 - 🐍 **Python**
 - 📊 **Business & Operations Analytics**
