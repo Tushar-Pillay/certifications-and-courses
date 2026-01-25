@@ -68,6 +68,12 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [HR Analytics – Build an HR Dashboard using Power BI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
 
+### Use Power BI for Financial Data Analysis
+**Coursera | Guided Project**
+
+![Use Power BI for Financial Data Analysis](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Use%20Power%20Bi%20for%20Financial%20Data%20Analysis.png)
+
+📁 Folder:  [Use Power BI for Financial Data Analysis](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
 ---
 ## 📊 Statistics Certifications
 
