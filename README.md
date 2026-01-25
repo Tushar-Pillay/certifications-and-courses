@@ -44,8 +44,8 @@ Each section contains individual folders for every certificate.
 
 ![Get, Shape, Combine and Merge the Datasets using Power BI](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Get-Shape-Combine-and-Merge-PowerBI/Get-Shape-Combine-and-Merge-PowerBI.png)
 
-📁 **Certificate Folder:**  
-[PowerBI / Get-Shape-Combine-and-Merge-PowerBI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Get-Shape-Combine-and-Merge-PowerBI)
+📁 Folder:  [Get, Shape, Combine and Merge the Datasets using Power BI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Get-Shape-Combine-and-Merge-PowerBI)
+
 ---
 
 ## 📈 Product Analytics Certifications
