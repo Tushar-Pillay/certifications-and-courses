@@ -35,7 +35,8 @@ Each section contains individual folders for every certificate.
 🔗 **See full certificate details & verification:**  
 [View Certificate on Coursera](https://coursera.org/share/2f5a9f00bd08b91d53685b1790a30ebb)
 
-📁 Folder: `Excel/Business-Analytics-with-Excel-JHU/`
+📁 Folder:  [Excel / Business-Analytics-with-Excel-JHU](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Excel/Business-Analytics-with-Excel-JHU)
+
 
 ---
 
