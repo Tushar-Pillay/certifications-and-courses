@@ -19,7 +19,7 @@ Each section contains individual folders for every certificate.
 - 📈 **Statistics**
 - 🤖 **Artificial Intelligence**
 - 📊 **Tableau**
-- 🧠Business Strategy & Consulting
+- 🧠 **Business Strategy & Consulting**
 - 🧮 **SQL**
 - 🐍 **Python**
 
@@ -76,7 +76,10 @@ Each section contains individual folders for every certificate.
 ![Use Power BI for Financial Data Analysis](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Use%20Power%20Bi%20for%20Financial%20Data%20Analysis.png)
 
 📁 Folder:  [Use Power BI for Financial Data Analysis](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
+
 ---
+---
+
 ## 📊 Statistics Certifications
 
 ### Pre-MBA Statistics  
@@ -117,6 +120,7 @@ Each section contains individual folders for every certificate.
 
 ---
 ---
+
 ## 🧠Business Strategy & Consulting
 ### Creative Problem Solving
 **University of Minnesota – Certificate**
