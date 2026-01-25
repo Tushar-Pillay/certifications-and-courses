@@ -56,5 +56,63 @@ and performance metrics to stakeholders.
 - Data Analysis Software  
 
 ---
+---
+
+## Create Digital Marketing Campaign Dashboards in Tableau  
+**Tableau Guided Project Certificate**
+
+## 📜 Certificate
+![Create Digital Marketing Campaign Dashboards in Tableau Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Tableau/Projects/Create%20Digital%20Marketing%20Campaign%20Dashboards%20in%20Tableau.png)
+
+🔗 **Certificate Reference Link:**  
+[Create Digital Marketing Campaign Dashboards in Tableau](https://coursera.org/share/bf86f17dfbf5cc45188bacd2eefb0ed6)
+
+---
+
+### 📘 Project Description
+This guided project focuses on building **interactive dashboards for digital
+marketing campaign analysis** using Tableau. The project demonstrates how
+marketing data can be uploaded, structured, and visualized to evaluate campaign
+performance across different channels and metrics.
+
+The project emphasizes translating raw marketing data into **clear,
+decision-ready dashboards** that support market analysis, campaign optimization,
+and strategic planning.
+
+---
+
+### 🧾 Completion Details
+- **Learner:** Tushar Pillay  
+- **Completion Date:** April 13, 2024  
+- **Duration:** ~1 hour  
+- **Grade Achieved:** 100%  
+- **Certificate Status:** Verified completion  
+
+---
+
+### 🧠 What This Project Covers
+- Creating an account on Tableau Public  
+- Installing and setting up Tableau Desktop  
+- Uploading digital marketing datasets into Tableau  
+- Designing dashboards from marketing campaign data  
+- Visualizing key performance indicators (KPIs)  
+- Comparing campaign performance using charts and graphs  
+- Presenting insights for marketing and business decision-making  
+
+---
+
+### 🛠 Skills Gained
+- Tableau Software  
+- Data Visualization  
+- Interactive Dashboard Design  
+- Data Presentation  
+- Digital Marketing  
+- Digital Media Strategy  
+- Market Analysis  
+- Business Analytics  
+- Graphing  
+- Marketing Analytics  
+
+---
 
 > Additional Tableau guided project certificates will be added to this section as more projects are completed.
