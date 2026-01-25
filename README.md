@@ -30,7 +30,7 @@ Each section contains individual folders for every certificate.
 ### Business Analytics with Excel: Elementary to Advanced  
 **Johns Hopkins University | Coursera**
 
-![Business Analytics with Excel Certificate](Excel/Business-Analytics-with-Excel-JHU/Business_Analytics_with_Excel_Certificate.png)
+![Business Analytics with Excel Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Excel/Business-Analytics-with-Excel-JHU/Business%20Analytics%20with%20excel.jpg)
 
 🔗 **See full certificate details & verification:**  
 [View Certificate on Coursera](https://coursera.org/share/2f5a9f00bd08b91d53685b1790a30ebb)
