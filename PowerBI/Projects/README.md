@@ -110,7 +110,65 @@ aggregations, and performance metrics within Power BI dashboards.
 - Data Literacy  
 - Data Analysis Expressions (DAX)  
 - Software Visualization  
-- Time Series Analysis & Forecasting  
+- Time Series Analysis & Forecasting
+- 
+---
+---
 
+## Financial Reporting with Power BI: Basic Financial Analysis  
+**Coursera | Guided Project**
 
+## 📜 Certificate
+[![Financial Reporting with Power BI Certificate](Financial-Reporting-with-PowerBI.png)]https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Financial%20Reporting%20with%20Power%20BI%20Basic%20Financial%20Analysis.png)
+
+🔗 **Coursera Project Link:**  
+This link redirects to the official Coursera project page for verification and detailed course information.  
+[Financial Reporting with Power BI: Basic Financial Analysis ](https://coursera.org/share/9a8bdb18a4a4079f0686c58d5d075813)
+
+---
+
+### 📘 Project Description
+This guided project focuses on **financial reporting and analysis using Power BI**.
+It demonstrates how financial data can be imported, cleaned, modeled, and analyzed
+to understand a company’s financial performance and position over time.
+
+The project emphasizes translating raw financial data into **clear, business-ready
+visual reports** that support financial decision-making and planning.
+
+---
+
+### 🧾 Completion Details
+- **Learner:** Tushar Pillay  
+- **Completion Date:** January 19, 2024  
+- **Duration:** ~2 hours  
+- **Grade Achieved:** 100%  
+- **Verification Status:** Coursera-verified account  
+
+---
+
+### 🧠 What This Project Covers
+- Importing and cleaning financial data using Power Query  
+- Preparing datasets for financial analysis  
+- Analyzing financial statements over time  
+- Applying DAX for financial calculations  
+- Creating visuals to communicate financial insights  
+- Building financial dashboards for reporting  
+
+---
+
+### 🛠 Skills Gained
+- Power BI  
+- Financial Reporting  
+- Financial Analysis  
+- Financial Statements  
+- Balance Sheet Analysis  
+- Data Import / Export  
+- Business Reporting  
+- Business Planning  
+- Dashboard Design  
+- Analytics  
+- Data Analysis Expressions (DAX)
+
+---
+  
 > More Power BI guided projects will be added to this section as they are completed.
