@@ -170,5 +170,59 @@ visual reports** that support financial decision-making and planning.
 - Data Analysis Expressions (DAX)
 
 ---
+---
+
+## HR Analytics – Build an HR Dashboard using Power BI  
+**Power BI Guided Project Certificate**
+
+## 📜 Certificate
+![HR Analytics Power BI Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/HR%20Analytics-%20Build%20an%20HR%20dashboard%20using%20Power%20BI.png)
+
+🔗 **Certificate Reference Link:**  
+[HR Analytics – Build an HR Dashboard using Power BI](https://coursera.org/share/f598cf2a2436b9cb2ccff8b113187af4)
+
+---
+
+### 📘 Project Description
+This guided project focuses on building an **interactive HR analytics dashboard**
+using Power BI. The project demonstrates how human resource data can be imported,
+modeled, and visualized to uncover insights related to workforce composition,
+diversity, and key HR metrics.
+
+The dashboard is designed to be **visually engaging and interactive**, enabling
+HR teams and decision-makers to explore employee data efficiently and support
+data-driven workforce planning.
+
+---
+
+### 🧾 Completion Details
+- **Learner:** Tushar Pillay  
+- **Completion Date:** February 14, 2024  
+- **Duration:** ~1 hour  
+- **Grade Achieved:** 80%  
+- **Certificate Status:** Verified completion  
+
+---
+
+### 🧠 What This Project Covers
+- Importing HR datasets into Power BI  
+- Designing an attractive and professional HR dashboard  
+- Visualizing gender and racial diversity using charts and graphs  
+- Applying filters and slicers for interactive analysis  
+- Using buttons and themes to enhance dashboard usability  
+- Exploring HR metrics through visual storytelling  
+
+---
+
+### 🛠 Skills Gained
+- Power BI  
+- HR Analytics  
+- Human Resources Software  
+- Data Visualization  
+- Dashboard Design  
+- Data Import / Export  
+- Interactive Reporting  
+
+---
   
 > More Power BI guided projects will be added to this section as they are completed.
