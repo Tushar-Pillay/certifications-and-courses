@@ -53,11 +53,14 @@ Each section contains individual folders for every certificate.
 📁 Folder:  [Using DAX throughout Power BI to Create Robust Data Scenarios](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
 
 ---
+## 📊 Statistics Certifications
 
-## 📈 Product Analytics Certifications
-*(Certificates will be added here)*
+### Pre-MBA Statistics  
+**IIM Ahmedabad (IIMA) | Coursera**
+![Pre-MBA Statistics](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Statistics/Pre-MBA%20Statistics.png)
 
-📁 Folder: `Product-Analytics/`
+📁 **Statistics Folder:**  
+[Statistics](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Statistics)
 
 ---
 
