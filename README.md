@@ -16,7 +16,7 @@ Each section contains individual folders for every certificate.
 
 - 📗 **Excel**
 - 📊 **Power BI**
-- 📈 **Product Analytics**
+- 📈 **Statistics Certifications**
 - 🧮 **SQL**
 - 🐍 **Python**
 - 📊 **Business & Operations Analytics**
@@ -85,18 +85,4 @@ Each section contains individual folders for every certificate.
 
 ---
 
-## 🧩 Repository Structure
-
-```text
-certifications-and-courses/
-├── Data-Analytics/
-├── Product-Analytics/
-├── SQL/
-├── Excel/
-│   └── Business-Analytics-with-Excel-JHU/
-│       ├── README.md
-│       ├── Business_Analytics_with_Excel_Certificate.png
-│       └── Business_Analytics_with_Excel_Certificate.pdf
-├── Python/
-└── README.md
 
