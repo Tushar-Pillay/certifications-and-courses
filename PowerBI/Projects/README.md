@@ -119,7 +119,7 @@ aggregations, and performance metrics within Power BI dashboards.
 **Coursera | Guided Project**
 
 ## 📜 Certificate
-[![Financial Reporting with Power BI Certificate](Financial-Reporting-with-PowerBI.png)]https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Financial%20Reporting%20with%20Power%20BI%20Basic%20Financial%20Analysis.png)
+![Financial Reporting with Power BI Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Financial%20Reporting%20with%20Power%20BI%20Basic%20Financial%20Analysis.png)
 
 🔗 **Coursera Project Link:**  
 This link redirects to the official Coursera project page for verification and detailed course information.  
