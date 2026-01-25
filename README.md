@@ -17,7 +17,8 @@ Each section contains individual folders for every certificate.
 - 📗 **Excel**
 - 📊 **Power BI**
 - 📈 **Statistics**
-- 🤖 **Artificial Intelligence** 
+- 🤖 **Artificial Intelligence**
+- 📊 **Tableau**
 - 🧮 **SQL**
 - 🐍 **Python**
 - 📊 **Business & Operations Analytics**
@@ -80,6 +81,22 @@ Each section contains individual folders for every certificate.
 📁 **Folder:**  [ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ChatGPT-for-Beginners)
 
 ---
+
+## 📊 Tableau Certifications
+
+### Create Social Media Dashboards in Tableau
+**Coursera | Guided Project**
+
+![Create Social Media Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Tableau/Projects/Create%20Social%20Media%20Dashboards%20in%20Tableau.png)
+
+📁 Folder:  [Create Social Media Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau/Projects)
+
+### Create Digital Marketing Campaign Dashboards in Tableau
+**Coursera | Guided Project**
+
+![Create Digital Marketing Campaign Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Tableau/Projects/Create%20Digital%20Marketing%20Campaign%20Dashboards%20in%20Tableau.png)
+
+📁 Folder:  [Create Digital Marketing Campaign Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau/Projects)
 
 ## 🐍 Python Certifications
 *(Certificates will be added here)*
