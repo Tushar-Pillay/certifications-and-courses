@@ -2,16 +2,18 @@
 **Johns Hopkins University | Coursera**
 
 ## 📜 Certificate
-![Business Analytics with Excel Certificate](Business_Analytics_with_Excel_Johns_Hopkins_Certificate.png)
+![Business Analytics with Excel Certificate](Business_Analytics_with_Excel_Certificate.png)
 
-🔗 **Verified Credential (PDF):**  
-[View Certificate on Coursera](https://coursera.org/share/2f5a9f00bd08b91d53685b1790a30ebb)  
-📄 [Download Certificate (PDF)](Business_Analytics_with_Excel_Johns_Hopkins_Certificate.pdf)
+🔗 **Verified Credential (Coursera):**  
+[View Certificate on Coursera](https://coursera.org/share/2f5a9f00bd08b91d53685b1790a30ebb)
+
+📄 **Download Certificate (PDF):**  
+[Business Analytics with Excel – PDF](Business%20Analytics%20with%20excel.pdf)
 
 ---
 
 ## 📘 Course Overview
-This course provides a comprehensive foundation in **business analytics using Microsoft Excel**, covering techniques from elementary analysis to advanced quantitative, statistical, and optimization models. The program emphasizes applying Excel to real-world business problems using structured analytical thinking, data modeling, and data-driven decision-making.
+This course provides a comprehensive foundation in **business analytics using Microsoft Excel**, covering techniques from elementary analysis to advanced quantitative, statistical, and optimization models. The program emphasizes applying Excel to real-world business problems through structured analytical thinking, data modeling, and data-driven decision-making.
 
 ---
 
@@ -43,14 +45,14 @@ Coursera certifies the successful completion of this course and verifies the lea
 ---
 
 ## 🎯 Learning Outcomes
-- Built Excel-based analytical models to solve business problems  
+- Built Excel-based analytical models to solve real-world business problems  
 - Applied statistical and mathematical techniques for decision-making  
 - Designed optimization models for operations and resource planning  
-- Performed predictive and financial analysis using Excel tools  
+- Performed predictive and financial analysis using Excel  
 
 ---
 
-## 🧩 Relevance to Data & Business Analytics
+## 🧩 Relevance to Analytics Roles
 This certification strengthens hands-on capabilities in **Excel-based analytics**, supporting roles such as:
 - Data Analyst  
 - Business Analyst  
@@ -59,6 +61,6 @@ This certification strengthens hands-on capabilities in **Excel-based analytics*
 
 ---
 
-## 📂 Files Included in This Folder
-- `Business_Analytics_with_Excel_Johns_Hopkins_Certificate.png` – Certificate image for inline display  
-- `Business_Analytics_with_Excel_Johns_Hopkins_Certificate.pdf` – Official certificate document  
+## 📂 Files Included
+- `Business_Analytics_with_Excel_Certificate.png` – Certificate image (visible above)  
+- `Business Analytics with excel.pdf` – Official certificate document  
