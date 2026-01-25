@@ -2,7 +2,7 @@
 **Johns Hopkins University | Coursera**
 
 ## 📜 Certificate
-![Business Analytics with Excel Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Excel/Business-Analytics-with-Excel-JHU/Business%20Analytics%20with%20excel.pdf)
+![Business Analytics with Excel Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Excel/Business-Analytics-with-Excel-JHU/Business%20Analytics%20with%20excel.jpg)
 
 🔗 **Verified Credential (Coursera):**  
 [View Certificate on Coursera](https://coursera.org/share/2f5a9f00bd08b91d53685b1790a30ebb)
