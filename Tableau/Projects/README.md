@@ -1,4 +1,3 @@
----
 ## Create Social Media Dashboards in Tableau  
 **Tableau Guided Project Certificate**
 
@@ -11,13 +10,14 @@
 ---
 
 ### 📘 Project Description
-This guided project focuses on creating **interactive dashboards in Tableau**
-to analyze and present social media performance data. It demonstrates how raw
-data can be cleaned, transformed, and visualized to generate actionable insights
-for content performance and digital marketing strategies.
+This guided project focuses on designing **interactive and insightful dashboards**
+using Tableau to analyze **social media performance data**. The project demonstrates
+how raw social media data can be cleaned, prepared, and transformed into meaningful
+visual insights that support content strategy and digital marketing decisions.
 
-The project emphasizes effective data storytelling through well-designed
-visuals that help stakeholders quickly understand trends and key metrics.
+The project emphasizes **data storytelling**, where visual elements such as KPIs,
+charts, and geographic views are combined to clearly communicate trends, engagement,
+and performance metrics to stakeholders.
 
 ---
 
@@ -31,19 +31,21 @@ visuals that help stakeholders quickly understand trends and key metrics.
 ---
 
 ### 🧠 What This Project Covers
-- Setting up Tableau Desktop and environment  
-- Performing basic data cleaning using Excel  
-- Importing cleaned datasets into Tableau  
-- Creating Big Number visualizations  
-- Designing Bubble Charts and Geo Visualizations  
-- Building table-based visualizations  
-- Combining visuals into dashboards for reporting  
+- Setting up Tableau Desktop and creating a working environment  
+- Performing basic data cleaning and preparation using Excel  
+- Uploading cleaned datasets into Tableau  
+- Creating Big Number (KPI) visualizations  
+- Designing Bubble Charts for comparative analysis  
+- Building Geo Visualizations to analyze location-based metrics  
+- Creating table visualizations for structured reporting  
+- Combining multiple visuals into a single dashboard  
 
 ---
 
 ### 🛠 Skills Gained
 - Tableau Software  
 - Data Visualization  
+- Dashboard Design  
 - Data Presentation  
 - Data Manipulation  
 - Data Cleansing  
@@ -51,10 +53,8 @@ visuals that help stakeholders quickly understand trends and key metrics.
 - Social Media Campaign Analysis  
 - Business Strategy  
 - Digital Marketing  
-- Data Analysis Software
+- Data Analysis Software  
 
 ---
 
 > Additional Tableau guided project certificates will be added to this section as more projects are completed.
-
-
