@@ -12,6 +12,8 @@ and an official Coursera reference link.
 ## 📜 Certificate
 ![Power BI Project Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Get-Shape-Combine-and-Merge-PowerBI.png)
 
+🔗 **Coursera Project Link:**  
+This link redirects to the official Coursera project page for verification and additional course details.  
 [Get, Shape, Combine and Merge the Datasets using Power BI](https://coursera.org/share/fc04701ba87dc034699d51bb4ff97c12)
 
 ---
