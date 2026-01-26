@@ -77,6 +77,12 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [Use Power BI for Financial Data Analysis](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
 
+### Getting Started with Power BI Desktop
+**Coursera | Guided Project**
+
+![Getting Started with Power BI Desktop](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Getting%20Started%20with%20Power%20BI%20Desktop.png)
+
+📁 Folder:  [Getting Started with Power BI Desktop](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
 ---
 ---
 
