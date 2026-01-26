@@ -141,6 +141,13 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [Introduction to Social Media Marketing](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Introduction-to-Social-Media-Marketing)
 
+### Foundations of Business Strategy
+**University of Virginia – Certificate**
+![Foundations of Business Strategy](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Foundations-of-Business-Strategy/Foundations%20of%20Business%20Strategy.png)
+
+📁 Folder:  [Foundations of Business Strategy](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Foundations-of-Business-Strategy)
+
 ---
+
 
 
