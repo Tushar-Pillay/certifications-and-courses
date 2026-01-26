@@ -2,7 +2,7 @@
 **Issued by: McKinsey & Company (McKinsey.org)**
 
 ## 📜 Certificate
-![McKinsey Forward Program Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/McKinsey.org%20Forward%20Program/mckinsey-org-forward-program.png)
+![McKinsey Forward Program Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/McKinsey.org%20Forward%20Program/McKinsey.org%20Forward%20Program_Certificate.png)
 
 🔗 **Certificate Reference Link:**  
 [View Certificate](https://www.credly.com/badges/062f912f-095b-45e6-a815-7a0ffba287da/linked_in_profile)
