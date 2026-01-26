@@ -229,7 +229,7 @@ data-driven workforce planning.
 **Power BI Guided Project Certificate**
 
 ## 📜 Certificate
-![Use Power BI for Financial Data Analysis Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/HR%20Analytics-%20Build%20an%20HR%20dashboard%20using%20Power%20BI.png)
+![Use Power BI for Financial Data Analysis Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Use%20Power%20Bi%20for%20Financial%20Data%20Analysis.png)
 
 🔗 **Certificate Reference Link:**  
 [Use Power BI for Financial Data Analysis](https://coursera.org/share/bdab07d37b30d7d90c69f2647d5cb833)
@@ -281,6 +281,7 @@ of financial performance.
 - Data Transformation  
 - Data Analysis Expressions (DAX)
   
+---
 ---
 
 ## Getting Started with Power BI Desktop  
