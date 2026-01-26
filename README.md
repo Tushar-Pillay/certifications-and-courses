@@ -187,6 +187,12 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [Oracle SQL Proficiency](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/Oracle-SQL-Proficiency)
 
+### SQL-Wordle Research Study IITB
+**Centre for Educational Technology, IIT Bombay**
+![SQL-Wordle Research Study IITB](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/SQL/SQL-Wordle-Research-Study-IITB/SQL-Wordle%20Research%20Study.png)
+
+📁 Folder:  [SQL-Wordle Research Study IITB](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/SQL-Wordle-Research-Study-IITB)
+
 ---
 
 
