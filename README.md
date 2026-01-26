@@ -87,13 +87,19 @@ Each section contains individual folders for every certificate.
 ---
 ---
 
-## 📊 Statistics Certifications
+## 🏢 Business Administration
 
 ### Pre-MBA Statistics  
 **IIM Ahmedabad (IIMA) | Coursera**
 ![Pre-MBA Statistics](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Statistics/Pre-MBA%20Statistics.png)
 
 📁 **Folder:**  [Statistics](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Statistics)
+
+### Supply Chain Management: A Learning Perspective  
+**Korea Advanced Institute of Science and Technology (KAIST) | Coursera**
+![Supply Chain Management: A Learning Perspective  ](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Administration/Supply%20Chain%20Management%3A%20A%20Learning%20Perspective/Supply%20Chain%20Management%20A%20Learning%20Perspective.png)
+
+📁 **Folder:** [ Supply Chain Management: A Learning Perspective  ](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration/Supply%20Chain%20Management%3A%20A%20Learning%20Perspective)
 
 ---
 ---
