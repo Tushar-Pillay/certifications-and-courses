@@ -1,5 +1,6 @@
 # Foundations of Business Strategy  
 **Certificate**
+**Issued by: University of Virginia**
 
 ## 📜 Certificate
 ![Foundations of Business Strategy Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Foundations-of-Business-Strategy/Foundations%20of%20Business%20Strategy.png)
