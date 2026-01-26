@@ -282,5 +282,62 @@ of financial performance.
 - Data Analysis Expressions (DAX)
   
 ---
+
+## Getting Started with Power BI Desktop  
+**Power BI Guided Project Certificate**
+
+## 📜 Certificate
+![Getting Started with Power BI Desktop Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Getting%20Started%20with%20Power%20BI%20Desktop.png)
+
+🔗 **Certificate Reference Link:**  
+[Getting Started with Power BI Desktop](https://coursera.org/share/bdab07d37b30d7d90c69f2647d5cb833)
+
+---
+
+### 📘 Project Description
+This guided project introduces the **core functionality of Power BI Desktop**
+and provides a foundation for building data-driven reports and dashboards.
+It demonstrates how to import, transform, and visualize data to support
+business intelligence and reporting needs.
+
+The project emphasizes understanding the Power BI workflow, from data
+preparation to visual analytics, making it an essential starting point
+for Power BI-based analytics projects.
+
+---
+
+### 🧾 Completion Details
+- **Learner:** Tushar Pillay  
+- **Completion Date:** January 11, 2024  
+- **Duration:** ~1 hour  
+- **Grade Achieved:** 100%  
+- **Certificate Status:** Verified completion  
+
+---
+
+### 🧠 What This Project Covers
+- Importing data into Power BI Desktop  
+- Transforming and cleaning data for analysis  
+- Creating visualizations using built-in charts and graphs  
+- Understanding Power BI Desktop interface and workflow  
+- Building basic dashboards for business reporting  
+- Applying data transformation techniques  
+
+---
+
+### 🛠 Skills Gained
+- Power BI  
+- Data Visualization  
+- Data Analysis  
+- Business Intelligence  
+- Business Reporting  
+- Business Analytics  
+- Dashboard Design  
+- Data Transformation  
+- Data Import / Export  
+- Data Visualization Software  
+- Data Analysis Software  
+- Business Intelligence Software  
+
   
 > More Power BI guided projects will be added to this section as they are completed.
