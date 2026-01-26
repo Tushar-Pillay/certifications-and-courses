@@ -135,6 +135,12 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [Creative Problem Solving](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Creative-Problem-Solving)
 
+### Introduction to Social Media Marketing
+**Meta – Certificate**
+![Introduction to Social Media Marketing](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Introduction-to-Social-Media-Marketing/Introduction%20to%20Social%20Media%20Marketing.png)
+
+📁 Folder:  [Introduction to Social Media Marketing](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Introduction-to-Social-Media-Marketing)
+
 ---
 
 
