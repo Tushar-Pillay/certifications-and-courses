@@ -124,6 +124,12 @@ Each section contains individual folders for every certificate.
 
 📁 **Folder:**  [ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ChatGPT-for-Beginners)
 
+### Google Prompt Design in Vertex AI Skill   
+**Google Cloud**
+![Google Prompt Design in Vertex AI Skill ](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/Google-Prompt-Designn-Vertex-AI/Prompt%20Design%20in%20Vertex%20AI.png)
+
+📁 **Folder:**  [Google Prompt Design in Vertex AI Skill ](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/Google-Prompt-Designn-Vertex-AI)
+
 ---
 ---
 
