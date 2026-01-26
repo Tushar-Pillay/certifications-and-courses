@@ -291,7 +291,7 @@ of financial performance.
 ![Getting Started with Power BI Desktop Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/PowerBI/Projects/Getting%20Started%20with%20Power%20BI%20Desktop.png)
 
 🔗 **Certificate Reference Link:**  
-[Getting Started with Power BI Desktop](https://coursera.org/share/bdab07d37b30d7d90c69f2647d5cb833)
+[Getting Started with Power BI Desktop](https://coursera.org/share/38aa1f73a883a78965485d850aab1ff9)
 
 ---
 
