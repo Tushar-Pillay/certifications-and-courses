@@ -107,6 +107,12 @@ Each section contains individual folders for every certificate.
 
 📁 **Folder:** [Country Level Economics: Macroeconomic Variables and Markets](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration/Country-Level-Economics)
 
+### Entrepreneurship I: Laying the Foundation
+**University of Illinois Urbana-Champaign | Coursera**
+![Entrepreneurship I: Laying the Foundation](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Entrepreneurship%20I%3A%20Laying%20the%20Foundation/Entrepreneurship%20I%20Laying%20the%20Foundation.png)
+
+📁 **Folder:** [Entrepreneurship I: Laying the Foundation](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Entrepreneurship%20I%3A%20Laying%20the%20Foundation)
+
 ---
 ---
 
