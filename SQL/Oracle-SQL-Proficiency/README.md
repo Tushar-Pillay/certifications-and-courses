@@ -2,7 +2,7 @@
 **Issued by: LearnQuest**
 
 ## 📜 Certificate
-![Oracle SQL Proficiency Certificate](Oracle-SQL-Proficiency.png)
+![Oracle SQL Proficiency Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/SQL/Oracle-SQL-Proficiency/Oracle%20SQL%20Proficiency.png)
 
 🔗 **Certificate Reference Link:**  
 [View Certificate](https://coursera.org/share/89198fc902eab4694f670d581f557ad2)
