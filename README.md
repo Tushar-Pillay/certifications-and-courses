@@ -101,6 +101,12 @@ Each section contains individual folders for every certificate.
 
 📁 **Folder:** [ Supply Chain Management: A Learning Perspective  ](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration/Supply%20Chain%20Management%3A%20A%20Learning%20Perspective)
 
+### Country Level Economics: Macroeconomic Variables and Markets
+**University of Illinois Urbana-Champaign | Coursera**
+![Country Level Economics: Macroeconomic Variables and Markets ](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Administration/Country-Level-Economics/Country%20Level%20Economics%20Macroeconomic%20Variables%20and%20Markets.png)
+
+📁 **Folder:** [Country Level Economics: Macroeconomic Variables and Markets](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration/Country-Level-Economics)
+
 ---
 ---
 
