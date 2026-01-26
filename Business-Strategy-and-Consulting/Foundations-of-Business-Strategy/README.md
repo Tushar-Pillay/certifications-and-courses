@@ -4,8 +4,7 @@
 ## 📜 Certificate
 ![Foundations of Business Strategy Certificate](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Foundations-of-Business-Strategy/Foundations%20of%20Business%20Strategy.png)
 
-🔗 **Certificate Reference Link:**  
-   [View Certificate](https://coursera.org/share/c0c209979109f15c5c9f64642cb0c290)
+🔗 **Certificate Reference Link:**  [View Certificate](https://coursera.org/share/c0c209979109f15c5c9f64642cb0c290)
 
 ---
 
