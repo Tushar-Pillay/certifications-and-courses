@@ -16,7 +16,7 @@ Each section contains individual folders for every certificate.
 
 - 📗 **Excel**
 - 📊 **Power BI**
-- 📈 **Statistics**
+- 🏢 **Business Administration**
 - 🤖 **Artificial Intelligence**
 - 📊 **Tableau**
 - 🧠 **Business Strategy & Consulting**
