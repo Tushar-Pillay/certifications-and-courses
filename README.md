@@ -166,6 +166,16 @@ Each section contains individual folders for every certificate.
 📁 Folder:  [Foundations of Business Strategy](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Foundations-of-Business-Strategy)
 
 ---
+---
+
+## 🧮SQL
+### Oracle SQL Proficiency
+**LearnQuest | Coursera**
+![Oracle SQL Proficiency](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/SQL/Oracle-SQL-Proficiency/Oracle%20SQL%20Proficiency.png)
+
+📁 Folder:  [Oracle SQL Proficiency](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/Oracle-SQL-Proficiency)
+
+---
 
 
 
