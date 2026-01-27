@@ -14,14 +14,14 @@ easy-to-navigate format.
 The certificates in this repository are organized into the following sections.
 Each section contains individual folders for every certificate.
 
-- 📗 **Excel**
-- 📊 **Power BI**
-- 🏢 **Business Administration**
-- 🤖 **Artificial Intelligence**
-- 📊 **Tableau**
-- 🧠 **Business Strategy & Consulting**
-- 🧮 **SQL**
-- 🐍 **Python**
+- 📗 **[Excel](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Excel)**
+- 📊 **[Power BI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI)**
+- 🏢 **[Business Administration](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration)**
+- 🤖 **[Artificial Intelligence](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence)**
+- 📊 **[Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau)**
+- 🧠 **[Business Strategy & Consulting](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting)**
+- 🧮 **[SQL](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL)**
+- 🐍 **[Python](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Python)**
 
 
 *(Sections can be expanded or modified as new certifications are added.)*
