@@ -14,6 +14,8 @@ easy-to-navigate format.
 The certificates in this repository are organized into the following sections.
 Each section contains individual folders for every certificate.
 
+👉 **Click on any category below to directly open the corresponding folder.**
+
 - 📗 **[Excel](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Excel)**
 - 📊 **[Power BI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI)**
 - 🏢 **[Business Administration](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration)**
