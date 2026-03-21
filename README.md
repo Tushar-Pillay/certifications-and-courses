@@ -200,9 +200,9 @@ Each section contains individual folders for every certificate.
 ## 💼 Virtual Internship
 ### Deliotte
 **Deloitte Australia – Data Analytics Job Simulation**
-![Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte/Certificate.png)
+![Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte%20Data%20Analytics/Certificate.png)
 
-📁 Folder: [Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/tree/main/Deloitte)
+📁 Folder: [Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/tree/main/Deloitte%20Data%20Analytics)
 
 
 
