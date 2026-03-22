@@ -24,7 +24,7 @@ Each section contains individual folders for every certificate.
 - 🧠 **[Business Strategy & Consulting](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting)**
 - 🧮 **[SQL](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL)**
 - 🐍 **[Python](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Python)**
-- 💼 **[Virtual Internship](https://github.com/Tushar-Pillay/virtual-internships/tree/main)**
+- 💼 **[Job Simulation](https://github.com/Tushar-Pillay/virtual-internships/tree/main)**
 
 
 *(Sections can be expanded or modified as new certifications are added.)*
@@ -133,6 +133,11 @@ Each section contains individual folders for every certificate.
 
 📁 **Folder:**  [Google Prompt Design in Vertex AI Skill ](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/Google-Prompt-Designn-Vertex-AI)
 
+### BCG X – Generative AI Job Simulation 
+**Forage**
+![BCG X – Generative AI Job Simulation ](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG/Screenshot%202026-03-22%20183552.png)
+
+📁 **Folder:**  [BCG X – Generative AI Job Simulation ](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG)
 ---
 ---
 
