@@ -197,7 +197,7 @@ Each section contains individual folders for every certificate.
 📁 Folder:  [SQL-Wordle Research Study IITB](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/SQL-Wordle-Research-Study-IITB)
 
 ---
-## 💼 Virtual Internship
+## 💼 Job Simulation
 ### Deliotte
 **Deloitte Australia – Data Analytics Job Simulation**
 ![Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte%20Data%20Analytics/Certificate.png)
