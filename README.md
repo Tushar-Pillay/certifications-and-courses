@@ -211,9 +211,14 @@ Each section contains individual folders for every certificate.
 
 📁 Folder: [Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/tree/main/Deloitte%20Data%20Analytics)
 
-### BCG X
-**BCG Data for Decision Makers – Campaign Analysis**
+### BCG X 
+**BCG X Data for Decision Makers – Campaign Analysis**
 ![BCG Data for Decision Makers](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20%20Introduction%20to%20Data%20for%20Decision/Certificate.png)
 
 📁 Folder: [BCG Data for Decision Makers](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20%20Introduction%20to%20Data%20for%20Decision)
+
+**BCG X Data Science Job Simulation**
+![Data Science Job Simulation](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20X%20Data%20Science%20Job%20Simulation/Certificate.png)
+
+📁 Folder: [BCG X Data Science Job Simulation](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20X%20Data%20Science%20Job%20Simulation)
 
