@@ -187,7 +187,12 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [McKinsey.org Forward Program](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/McKinsey.org%20Forward%20Program)
 
----
+### BCG - Introduction to Strategy Consulting
+**BCG – Certificate**
+![BCG- Introduction to Strategy Consulting Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG-Introduction%20to%20Strategy%20Consulting/Certificate.png)
+
+📁 Folder:  [BCG- Introduction to Strategy Consulting](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG-Introduction%20to%20Strategy%20Consulting)
+
 ---
 
 ## 🧮SQL
