@@ -41,7 +41,6 @@ Each section contains individual folders for every certificate.
 📁 Folder:  [Excel > Excel / Business-Analytics-with-Excel-JHU](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Excel/Business-Analytics-with-Excel-JHU)
 
 ---
----
 
 ## 📊 Power BI Certifications
 
@@ -88,7 +87,6 @@ Each section contains individual folders for every certificate.
 📁 Folder:  [Power BI > Getting Started with Power BI Desktop](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI/Projects)
 
 ---
----
 
 ## 🏢 Business Administration
 
@@ -117,7 +115,6 @@ Each section contains individual folders for every certificate.
 📁 **Folder:** [Business Administration > Entrepreneurship I: Laying the Foundation](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Entrepreneurship%20I%3A%20Laying%20the%20Foundation)
 
 ---
----
 
 ## 🤖 Artificial Intelligence 
 
@@ -141,7 +138,6 @@ Each section contains individual folders for every certificate.
 📁 **Folder:**  [Job Simulation > BCG X – Generative AI Job Simulation ](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG)
 
 ---
----
 
 ## 📊 Tableau Certifications
 
@@ -159,7 +155,6 @@ Each section contains individual folders for every certificate.
 
 📁 Folder:  [Tableau > Create Digital Marketing Campaign Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau/Projects)
 
----
 ---
 
 ## 🧠Business Strategy & Consulting
