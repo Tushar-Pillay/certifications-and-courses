@@ -188,6 +188,12 @@ Each section contains individual folders for every certificate.
 
 📁 Folder: [Job Simulation > BCG - Introduction to Strategy Consulting](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG-Introduction%20to%20Strategy%20Consulting)
 
+### BCG - Strategy Consulting
+**BCG – Certificate**
+![BCG- Strategy Consulting Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/certificate.png)
+
+📁 Folder: [Job Simulation > BCG Strategy Consulting](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20Strategy%20Consulting)
+
 ---
 
 ## 🧮SQL
