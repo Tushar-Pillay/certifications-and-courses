@@ -1,8 +1,6 @@
 # AI Capabilities and Limitations 
 **Anthropic Academy**
 
----
-
 ## 📜 Certificate
 ![AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations/AI%20Capabilities%20and%20Limitations.png)
 **Issued:** [May,2026] | **Credential ID:** [fjsbgyohkomn]
