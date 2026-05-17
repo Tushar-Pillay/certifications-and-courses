@@ -137,6 +137,12 @@ Each section contains individual folders for every certificate.
 
 📁 **Folder:**  [Job Simulation > BCG X – Generative AI Job Simulation ](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG)
 
+### AI Capabilities and Limitations
+**Anthropic Academy**
+![AI Fluency: AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations/AI%20Capabilities%20and%20Limitations.png)
+
+📁 **Folder:**  [Artificial Intelligence > ClaudeAI-Anthropic > AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations)
+
 ---
 
 ## 📊 Tableau Certifications
