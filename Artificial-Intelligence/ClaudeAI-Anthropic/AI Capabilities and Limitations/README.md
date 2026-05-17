@@ -1,20 +1,22 @@
 # AI Capabilities and Limitations 
 **Anthropic Academy**
 
+---
+
 ## 📜 Certificate
 ![AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations/AI%20Capabilities%20and%20Limitations.png)
 **Issued:** [May,2026] | **Credential ID:** [fjsbgyohkomn]
 
 ---
 
-🔗 **Course Link (Verification & Details):**  
+## 🔗 **Course Link (Verification & Details):**  
 [AI Fluency: AI Capabilities and Limitations](https://verify.skilljar.com/c/fjsbgyohkomn)
 
 ---
 
 This certification provides a deep technical mental model of how Large Language Models (LLMs) behave, moving beyond surface-level prompting to understand the underlying machine properties. It is the technical companion to the **4D Framework** (Delegation, Description, Discernment, Diligence).
 
-#### 🧠 Core Learning: The 4 Machine Properties
+## 🧠 Core Learning: The 4 Machine Properties
 I mastered the four fundamental properties that define the "capability-to-limitation" continuum of AI:
 
 1.  **Next Token Prediction:** 
