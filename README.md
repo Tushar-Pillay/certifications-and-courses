@@ -171,20 +171,20 @@ Each section contains individual folders for every certificate.
 
 ## 🧠Business Strategy & Consulting
 
-- ### Creative Problem Solving
-  **University of Minnesota – Certificate**
+- ### Creative Problem Solving 
+  **University of Minnesota – Certificate | Coursera**
 ![Creative Problem Solving](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Creative-Problem-Solving/Creative%20Problem%20Solving.png)
 
 📁 Folder:  [Business Strategy & Consulting > Creative Problem Solving](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Creative-Problem-Solving)
 
 - ### Introduction to Social Media Marketing
-  **Meta – Certificate**
+  **Meta – Certificate | Coursera**
 ![Introduction to Social Media Marketing](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Introduction-to-Social-Media-Marketing/Introduction%20to%20Social%20Media%20Marketing.png)
 
 📁 Folder: [Business Strategy & Consulting > Introduction to Social Media Marketing](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Introduction-to-Social-Media-Marketing)
 
 - ### Foundations of Business Strategy
-  **University of Virginia – Certificate**
+  **University of Virginia – Certificate | Coursera**
 ![Foundations of Business Strategy](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Strategy-and-Consulting/Foundations-of-Business-Strategy/Foundations%20of%20Business%20Strategy.png)
 
 📁 Folder: [Business Strategy & Consulting > Foundations of Business Strategy](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Foundations-of-Business-Strategy)
@@ -196,13 +196,13 @@ Each section contains individual folders for every certificate.
 📁 Folder: [Business Strategy & Consulting > McKinsey.org Forward Program](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/McKinsey.org%20Forward%20Program)
 
 - ### BCG - Introduction to Strategy Consulting
-  **BCG – Certificate**
+  **BCG – Certificate | Forage**
 ![BCG- Introduction to Strategy Consulting Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG-Introduction%20to%20Strategy%20Consulting/Certificate.png)
 
 📁 Folder: [Job Simulation > BCG - Introduction to Strategy Consulting](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG-Introduction%20to%20Strategy%20Consulting)
 
 - ### BCG - Strategy Consulting
-  **BCG – Certificate**
+  **BCG – Certificate | Forage**
 ![BCG- Strategy Consulting Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/certificate.png)
 
 📁 Folder: [Job Simulation > BCG Strategy Consulting](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20Strategy%20Consulting)
@@ -227,18 +227,18 @@ Each section contains individual folders for every certificate.
 ## 💼 Job Simulation
 
 - ### Deliotte
-  **Deloitte Australia – Data Analytics Job Simulation**
+  **Deloitte Australia – Data Analytics Job Simulation | Forage**
 ![Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/blob/main/Deloitte%20Data%20Analytics/Certificate.png)
 
 📁 Folder: [Job Simulation > Deloitte Data Analytics Certificate](https://github.com/Tushar-Pillay/virtual-internships/tree/main/Deloitte%20Data%20Analytics)
 
 - ### BCG X 
-  **BCG X Data for Decision Makers – Campaign Analysis**
+  **BCG X Data for Decision Makers – Campaign Analysis | Forage**
 ![BCG Data for Decision Makers](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20%20Introduction%20to%20Data%20for%20Decision/Certificate.png)
 
 📁 Folder: [Job Simulation > BCG Data for Decision Makers](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20%20Introduction%20to%20Data%20for%20Decision)
 
-- **BCG X Data Science Job Simulation**
+- **BCG X Data Science Job Simulation | Forage**
 ![Data Science Job Simulation](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20X%20Data%20Science%20Job%20Simulation/Certificate.png)
 
 📁 Folder: [Job Simulation > BCG X Data Science Job Simulation](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20X%20Data%20Science%20Job%20Simulation)
