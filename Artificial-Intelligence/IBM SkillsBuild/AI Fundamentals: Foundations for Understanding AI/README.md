@@ -8,8 +8,9 @@ This repository serves as a showcase of my certification in ** Foundations for U
 ## 🏆 Credential Information
 - **Provider:** IBM SkillsBuild
 - **Badge:** 
-
-  ![AI Fundamentals – Foundations for Understanding AI](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/IBM%20SkillsBuild/AI%20Fundamentals%3A%20Foundations%20for%20Understanding%20AI/ai-fundamentals%20IBM%20skill%20Badge.png)
+  <br>
+  <img src="https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/IBM%20SkillsBuild/AI%20Fundamentals%3A%20Foundations%20for%20Understanding%20AI/ai-fundamentals%20IBM%20skill%20Badge.png" width="120" alt="IBM AI Badge">
+ 
 
 - **Certificate** 
 
