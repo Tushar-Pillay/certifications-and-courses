@@ -143,6 +143,12 @@ Each section contains individual folders for every certificate.
 
 📁 **Folder:**  [Artificial Intelligence > ClaudeAI-Anthropic > AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations)
 
+### AI Fundamentals: Foundations for Understanding AI
+**IBM SkillsBuild**
+![AI Fundamentals: Foundations for Understanding AI](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/IBM%20SkillsBuild/AI%20Fundamentals%3A%20Foundations%20for%20Understanding%20AI/Ai%20fundamentals%20certificate%20IBM.png)
+
+📁 **Folder:**  [Artificial Intelligence > IBM SkillsBuild > AI Fundamentals: Foundations for Understanding AI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/IBM%20SkillsBuild/AI%20Fundamentals%3A%20Foundations%20for%20Understanding%20AI)
+
 ---
 
 ## 📊 Tableau Certifications
