@@ -92,7 +92,7 @@ Each section contains individual folders for every certificate.
 
 - ### Pre-MBA Statistics  
   **IIM Ahmedabad (IIMA) | Coursera**
-![Pre-MBA Statistics -IIMA](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Statistics/Pre-MBA%20Statistics.png)
+![Pre-MBA Statistics -IIMA](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Administration/Pre-MBA%20Statistics-IIMA/Pre-MBA%20Statistics.png)
 
 📁 **Folder:**  [Business Administration > Pre-MBA Statistics-IIMA](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration/Pre-MBA%20Statistics-IIMA)
 
