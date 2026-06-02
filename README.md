@@ -224,6 +224,17 @@ Each section contains individual folders for every certificate.
 📁 Folder:  [SQL > SQL-Wordle Research Study IITB](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/SQL-Wordle-Research-Study-IITB)
 
 ---
+
+## 🐍 Python Certifications 
+
+- ### Python for Data Science
+  **IBM**
+![Python for Data Science](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Python/Python_for_Data_Science/Python%20for%20Data%20Science%20-%20IBM.png)  
+
+📁 Folder: [Python > Python_for_Data_Science](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Python/Python_for_Data_Science)
+
+---      
+
 ## 💼 Job Simulation
 
 - ### Deliotte
