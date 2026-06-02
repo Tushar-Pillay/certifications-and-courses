@@ -25,11 +25,12 @@
   <img src="Python for Data Science - IBM.png" alt="IBM Python for Data Science Certificate" width="900">
 </p>
 
-- **Course Link (Verification & Details):**  [Python For Data Science](https://www.credly.com/badges/8ca5eccc-21a2-4e45-938d-5c896524cefb/linked_in_profile)
-
 - **Badge:** 
   <br>
   <img src="https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Python/Python_for_Data_Science/python-for-data-science%20badge.png" width="120" alt="IBM AI Badge">
+
+- **Course Link (Verification & Details):**  [Python For Data Science](https://www.credly.com/badges/8ca5eccc-21a2-4e45-938d-5c896524cefb/linked_in_profile)
+
 ---
 
 ## 🏆 Certification Overview
