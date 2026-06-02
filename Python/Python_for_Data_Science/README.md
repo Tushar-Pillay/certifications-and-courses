@@ -17,6 +17,11 @@
 
 </div>
 
+- **Course Link (Verification & Details):**  [Python For Data Science](https://www.credly.com/badges/8ca5eccc-21a2-4e45-938d-5c896524cefb/linked_in_profile)
+
+- **Badge:** 
+  <br>
+  <img src="https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Python/Python_for_Data_Science/python-for-data-science%20badge.png" width="120" alt="IBM AI Badge">
 ---
 
 ## 🏆 Certification Overview
@@ -252,24 +257,6 @@ Through this certification, I gained hands-on experience in:
 
 ---
 
-# 🚀 Practical Applications
-
-The concepts learned in this course can be applied in:
-
-- Data Science
-- Data Analytics
-- Business Analytics
-- Machine Learning
-- Artificial Intelligence
-- Financial Analytics
-- Marketing Analytics
-- Process Automation
-- Data Engineering
-- Software Development
-- Research and Scientific Computing
-
----
-
 # 💡 Key Takeaways
 
 ✔ Developed a strong foundation in Python programming.
@@ -285,35 +272,6 @@ The concepts learned in this course can be applied in:
 ✔ Built confidence in handling real-world datasets.
 
 ✔ Prepared for advanced Data Science and Machine Learning learning paths.
-
----
-
-# 🏅 Certification Value
-
-This IBM certification validates foundational Python programming skills and demonstrates proficiency in concepts essential for Data Science and Analytics.
-
-The certification reflects:
-
-- Commitment to continuous learning.
-- Understanding of modern programming practices.
-- Ability to work with data using Python.
-- Readiness for advanced analytics and machine learning studies.
-- Industry-recognized learning from IBM.
-
----
-
-# 🌟 Personal Learning Outcome
-
-As an aspiring **Data Analyst** and **Business Analytics professional**, completing this certification has strengthened my technical foundation and enhanced my ability to solve problems using Python.
-
-The course provided me with practical exposure to:
-
-- Programming fundamentals
-- Data analysis techniques
-- Numerical computing
-- Real-world problem solving
-
-This achievement represents an important step in my continuous learning journey and contributes to my long-term goal of building expertise in Data Science, Analytics, and Business Intelligence.
 
 ---
 
@@ -334,18 +292,4 @@ This achievement represents an important step in my continuous learning journey 
 
 ---
 
-# 👨‍💻 Author
 
-## Tushar Pillay
-
-### Aspiring Data Analyst | Business Analytics Enthusiast | Data Science Learner
-
-🔗 LinkedIn: www.linkedin.com/in/tusharpillay-dataanalyst
-
-🔗 GitHub: https://github.com/TusharPillay
-
----
-
-## ⭐ If you found this repository informative, don't forget to Star it!
-
-*"Learning Python is not just about writing code; it's about unlocking the power of data and transforming information into meaningful insights."*
