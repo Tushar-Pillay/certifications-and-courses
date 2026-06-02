@@ -17,6 +17,14 @@
 
 </div>
 
+---
+
+## 📸 Certificate
+
+<p align="center">
+  <img src="Python for Data Science - IBM.png" alt="IBM Python for Data Science Certificate" width="900">
+</p>
+
 - **Course Link (Verification & Details):**  [Python For Data Science](https://www.credly.com/badges/8ca5eccc-21a2-4e45-938d-5c896524cefb/linked_in_profile)
 
 - **Badge:** 
@@ -33,14 +41,6 @@ The course provides a comprehensive introduction to Python programming and demon
 Python has become one of the most widely used programming languages across industries due to its simplicity, readability, and powerful ecosystem. It is extensively used by Data Scientists, Data Analysts, Data Engineers, Machine Learning Engineers, Software Developers, and Researchers worldwide.
 
 This certification represents an important milestone in my journey toward becoming a skilled Data Analyst and Business Analytics professional.
-
----
-
-## 📸 Certificate
-
-<p align="center">
-  <img src="Python for Data Science - IBM.png" alt="IBM Python for Data Science Certificate" width="900">
-</p>
 
 ---
 
