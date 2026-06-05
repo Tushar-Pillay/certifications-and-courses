@@ -66,6 +66,12 @@ Each section contains individual folders for every certificate.
 
 📁 Folder: [Python > Python_for_Data_Science](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Python/Python_for_Data_Science)
 
+- ### Data Analysis with Python
+  **IBM**
+![Data Analysis with Python](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Python/Data_Analysis_with_Python/Data%20Analysis%20with%20Python%20-%20IBM.png)  
+
+📁 Folder: [Python > Data_Analysis_with_Python](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Python/Data_Analysis_with_Python)
+
 ---
 
 ## 🤖 Artificial Intelligence 
