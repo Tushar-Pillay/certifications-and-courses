@@ -290,8 +290,4 @@ During this course, I learned about:
 
 
 
----
 
-## ⭐ If you found this repository informative, don't forget to Star it!
-
-*"Data is only valuable when transformed into insights. Analytics is the bridge between information and intelligent decision-making."*
