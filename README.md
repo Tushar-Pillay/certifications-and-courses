@@ -42,6 +42,85 @@ Each section contains individual folders for every certificate.
 
 ---
 
+## 🧮SQL
+
+- ### Oracle SQL Proficiency
+  **LearnQuest | Coursera**
+![Oracle SQL Proficiency](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/SQL/Oracle-SQL-Proficiency/Oracle%20SQL%20Proficiency.png)
+
+📁 Folder:  [SQL > Oracle SQL Proficiency](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/Oracle-SQL-Proficiency)
+
+- ### SQL-Wordle Research Study IITB
+  **Centre for Educational Technology, IIT Bombay**
+![SQL-Wordle Research Study IITB](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/SQL/SQL-Wordle-Research-Study-IITB/SQL-Wordle%20Research%20Study.png)
+
+📁 Folder:  [SQL > SQL-Wordle Research Study IITB](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/SQL-Wordle-Research-Study-IITB)
+
+---
+
+## 🐍 Python Certifications 
+
+- ### Python for Data Science
+  **IBM**
+![Python for Data Science](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Python/Python_for_Data_Science/Python%20for%20Data%20Science%20-%20IBM.png)  
+
+📁 Folder: [Python > Python_for_Data_Science](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Python/Python_for_Data_Science)
+
+---
+
+## 🤖 Artificial Intelligence 
+
+- ### ChatGPT for Beginners  
+  **Coursera**
+![ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/ChatGPT-for-Beginners/ChatGPT%20for%20Beginners.png)
+
+📁 **Folder:**  [Artificial Intelligence > ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ChatGPT-for-Beginners)
+
+- ### Google Prompt Design in Vertex AI Skill   
+  **Google Cloud**
+![Google Prompt Design in Vertex AI Skill ](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/Google-Prompt-Designn-Vertex-AI/Prompt%20Design%20in%20Vertex%20AI.png)
+
+📁 **Folder:**  [Artificial Intelligence  > Google Prompt Design in Vertex AI Skill ](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/Google-Prompt-Designn-Vertex-AI)
+
+
+- ### BCG X – Generative AI Job Simulation 
+  **Forage**
+![BCG X – Generative AI Job Simulation ](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG/Screenshot%202026-03-22%20183552.png)
+
+📁 **Folder:**  [Job Simulation > BCG X – Generative AI Job Simulation ](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG)
+
+- ### AI Capabilities and Limitations
+  **Anthropic Academy**
+![AI Fluency: AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations/AI%20Capabilities%20and%20Limitations.png)
+
+📁 **Folder:**  [Artificial Intelligence > ClaudeAI-Anthropic > AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations)
+
+- ### AI Fundamentals: Foundations for Understanding AI
+  **IBM SkillsBuild**
+![AI Fundamentals: Foundations for Understanding AI](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/IBM%20SkillsBuild/AI%20Fundamentals%3A%20Foundations%20for%20Understanding%20AI/Ai%20fundamentals%20certificate%20IBM.png)
+
+📁 **Folder:**  [Artificial Intelligence > IBM SkillsBuild > AI Fundamentals: Foundations for Understanding AI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/IBM%20SkillsBuild/AI%20Fundamentals%3A%20Foundations%20for%20Understanding%20AI)
+
+---
+
+## 📊 Tableau Certifications
+
+- ### Create Social Media Dashboards in Tableau
+  **Coursera | Guided Project**
+
+![Create Social Media Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Tableau/Projects/Create%20Social%20Media%20Dashboards%20in%20Tableau.png)
+
+📁 Folder:  [Tableau > Create Social Media Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau/Projects)
+
+- ### Create Digital Marketing Campaign Dashboards in Tableau
+  **Coursera | Guided Project**
+
+![Create Digital Marketing Campaign Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Tableau/Projects/Create%20Digital%20Marketing%20Campaign%20Dashboards%20in%20Tableau.png)
+
+📁 Folder:  [Tableau > Create Digital Marketing Campaign Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau/Projects)
+
+---
+
 ## 📊 Power BI Certifications
 
 - ### Get, Shape, Combine and Merge the Datasets using Power BI  
@@ -116,59 +195,6 @@ Each section contains individual folders for every certificate.
 
 ---
 
-## 🤖 Artificial Intelligence 
-
-- ### ChatGPT for Beginners  
-  **Coursera**
-![ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/ChatGPT-for-Beginners/ChatGPT%20for%20Beginners.png)
-
-📁 **Folder:**  [Artificial Intelligence > ChatGPT for Beginners](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ChatGPT-for-Beginners)
-
-- ### Google Prompt Design in Vertex AI Skill   
-  **Google Cloud**
-![Google Prompt Design in Vertex AI Skill ](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/Google-Prompt-Designn-Vertex-AI/Prompt%20Design%20in%20Vertex%20AI.png)
-
-📁 **Folder:**  [Artificial Intelligence  > Google Prompt Design in Vertex AI Skill ](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/Google-Prompt-Designn-Vertex-AI)
-
-
-- ### BCG X – Generative AI Job Simulation 
-  **Forage**
-![BCG X – Generative AI Job Simulation ](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG/Screenshot%202026-03-22%20183552.png)
-
-📁 **Folder:**  [Job Simulation > BCG X – Generative AI Job Simulation ](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG)
-
-- ### AI Capabilities and Limitations
-  **Anthropic Academy**
-![AI Fluency: AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations/AI%20Capabilities%20and%20Limitations.png)
-
-📁 **Folder:**  [Artificial Intelligence > ClaudeAI-Anthropic > AI Capabilities and Limitations](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/ClaudeAI-Anthropic/AI%20Capabilities%20and%20Limitations)
-
-- ### AI Fundamentals: Foundations for Understanding AI
-  **IBM SkillsBuild**
-![AI Fundamentals: Foundations for Understanding AI](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/IBM%20SkillsBuild/AI%20Fundamentals%3A%20Foundations%20for%20Understanding%20AI/Ai%20fundamentals%20certificate%20IBM.png)
-
-📁 **Folder:**  [Artificial Intelligence > IBM SkillsBuild > AI Fundamentals: Foundations for Understanding AI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence/IBM%20SkillsBuild/AI%20Fundamentals%3A%20Foundations%20for%20Understanding%20AI)
-
----
-
-## 📊 Tableau Certifications
-
-- ### Create Social Media Dashboards in Tableau
-  **Coursera | Guided Project**
-
-![Create Social Media Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Tableau/Projects/Create%20Social%20Media%20Dashboards%20in%20Tableau.png)
-
-📁 Folder:  [Tableau > Create Social Media Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau/Projects)
-
-- ### Create Digital Marketing Campaign Dashboards in Tableau
-  **Coursera | Guided Project**
-
-![Create Digital Marketing Campaign Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Tableau/Projects/Create%20Digital%20Marketing%20Campaign%20Dashboards%20in%20Tableau.png)
-
-📁 Folder:  [Tableau > Create Digital Marketing Campaign Dashboards in Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau/Projects)
-
----
-
 ## 🧠Business Strategy & Consulting
 
 - ### Creative Problem Solving 
@@ -206,34 +232,8 @@ Each section contains individual folders for every certificate.
 ![BCG- Strategy Consulting Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/certificate.png)
 
 📁 Folder: [Job Simulation > BCG Strategy Consulting](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20Strategy%20Consulting)
-
+      
 ---
-
-## 🧮SQL
-
-- ### Oracle SQL Proficiency
-  **LearnQuest | Coursera**
-![Oracle SQL Proficiency](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/SQL/Oracle-SQL-Proficiency/Oracle%20SQL%20Proficiency.png)
-
-📁 Folder:  [SQL > Oracle SQL Proficiency](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/Oracle-SQL-Proficiency)
-
-- ### SQL-Wordle Research Study IITB
-  **Centre for Educational Technology, IIT Bombay**
-![SQL-Wordle Research Study IITB](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/SQL/SQL-Wordle-Research-Study-IITB/SQL-Wordle%20Research%20Study.png)
-
-📁 Folder:  [SQL > SQL-Wordle Research Study IITB](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL/SQL-Wordle-Research-Study-IITB)
-
----
-
-## 🐍 Python Certifications 
-
-- ### Python for Data Science
-  **IBM**
-![Python for Data Science](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Python/Python_for_Data_Science/Python%20for%20Data%20Science%20-%20IBM.png)  
-
-📁 Folder: [Python > Python_for_Data_Science](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Python/Python_for_Data_Science)
-
----      
 
 ## 💼 Job Simulation
 
