@@ -17,13 +17,13 @@ Each section contains individual folders for every certificate.
 👉 **Click on any category below to directly open the corresponding folder.**
 
 - 📗 **[Excel](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Excel)**
-- 📊 **[Power BI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI)**
-- 🏢 **[Business Administration](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration)**
-- 🤖 **[Artificial Intelligence](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence)**
-- 📊 **[Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau)**
-- 🧠 **[Business Strategy & Consulting](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting)**
 - 🧮 **[SQL](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/SQL)**
 - 🐍 **[Python](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Python)**
+- 🤖 **[Artificial Intelligence](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Artificial-Intelligence)**
+- 📊 **[Tableau](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Tableau)**
+- 📊 **[Power BI](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/PowerBI)**
+- 🏢 **[Business Administration](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration)**
+- 🧠 **[Business Strategy & Consulting](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting)**
 - 💼 **[Job Simulation](https://github.com/Tushar-Pillay/virtual-internships/tree/main)**
 
 
