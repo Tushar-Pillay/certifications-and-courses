@@ -1,4 +1,4 @@
-# Certifications & Courses
+# 🏆Certifications & Courses
 
 This repository contains certificates from courses completed across
 **Data Analytics, Product Analytics, SQL, Excel, Python, and related domains**.
@@ -30,6 +30,8 @@ Each section contains individual folders for every certificate.
 *(Sections can be expanded or modified as new certifications are added.)*
 
 ---
+
+**The certificates below provide a quick glimpse of my professional learning achievements. For comprehensive details, including course descriptions, learning objectives, key takeaways, and skills gained, please choose the relevant certification folder from the directory above or use the associated folder path provided beneath each certificate.**
 
 ## 📗 Excel Certifications
 
