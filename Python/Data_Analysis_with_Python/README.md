@@ -32,6 +32,8 @@
 
 - **Course Link (Verification & Details):**  [Data Analysis with Python](https://courses.yl-ptech.skillsnetwork.site/certificates/720c074d06074d138f74f912f6e66d00)
 
+---
+
 # 🏆 Certification Overview
 
 This repository showcases my successful completion of the **Data Analysis with Python** certification offered by **IBM SkillsBuild** and **IBM Developer Skills Network**.
