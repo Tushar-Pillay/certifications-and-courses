@@ -207,6 +207,12 @@ Each section contains individual folders for every certificate.
 
 📁 **Folder:** [Business Administration > Entrepreneurship I: Laying the Foundation](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Strategy-and-Consulting/Entrepreneurship%20I%3A%20Laying%20the%20Foundation)
 
+- ### Ignite Bootcamp – Idea to Plan
+  **Wadhwani Foundation**
+![Ignite Bootcamp](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Business-Administration/Wadhwani-Foundation/Wadhwani%20Foundation.png)
+
+📁 **Folder:** [Business Administration > Wadhwani Foundation](https://github.com/Tushar-Pillay/certifications-and-courses/tree/main/Business-Administration/Wadhwani-Foundation)
+
 ---
 
 ## 🧠Business Strategy & Consulting
