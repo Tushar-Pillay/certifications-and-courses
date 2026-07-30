@@ -1,4 +1,4 @@
-# SUSTAINiti
+# AI Summit 
 
 ## Project Poster
 
