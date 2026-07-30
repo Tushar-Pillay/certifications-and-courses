@@ -1,6 +1,6 @@
 # AI Summit 
 
-## Project Poster
+## Certificate 
 
 ![SUSTAINiti Poster](https://github.com/Tushar-Pillay/certifications-and-courses/blob/main/Artificial-Intelligence/SCMHRD_AI_Summit/Certificate.png)
 
