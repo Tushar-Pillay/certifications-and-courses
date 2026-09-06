@@ -252,7 +252,13 @@ Each section contains individual folders for every certificate.
 ![BCG- Strategy Consulting Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/BCG%20Strategy%20Consulting/certificate.png)
 
 📁 Folder: [Job Simulation > BCG Strategy Consulting](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/BCG%20Strategy%20Consulting)
-      
+
+- ### Mastercard - Strategy Consulting
+  **Mastercard – Certificate | Forage**
+![Mastercard- Strategy Consulting Certificate](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/blob/main/Mastercard%20Consulting/Certificate.png)
+
+📁 Folder: [Job Simulation > Mastercard Consulting](https://github.com/Tushar-Pillay/Job-Simulation-Portfolio/tree/main/Mastercard%20Consulting)
+
 ---
 
 ## 💼 Job Simulation
